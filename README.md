@@ -29,7 +29,7 @@ Use an unique authentication token (from Botfahter) in bot.py
 
 ```python
 def main():
-	updater = Updater("940954250:AAGPtSL2d5VXwgTwP4A6laOHwY-50s5BuGk", use_context=True)
+	updater = Updater("specialstring", use_context=True)
 ```
 
 Run 
