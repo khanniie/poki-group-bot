@@ -714,7 +714,7 @@ def main():
 	print("POKI EN CHATBOT")
 	print("Dispatcher all set up.")
 	updater.start_polling()
-	updater.idle()
+	#updater.idle()
 
 # def sigterm_handler(_signo, _stack_frame):
 #     # Raises SystemExit(0):
