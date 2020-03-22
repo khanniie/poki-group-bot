@@ -35,7 +35,14 @@ def main():
 Run 
 
 ```bash
-python bot.py
+python bot_modified.py
+```
+
+
+Run Server
+
+```bash
+python server.py
 ```
 
 
