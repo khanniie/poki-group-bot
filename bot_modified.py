@@ -689,7 +689,7 @@ def stringToTime(time_str):
 	return datetime.datetime.strptime(time_str, "%Y-%m-%dT%H:%M:%S.%f")
 
 
-async def main():
+def main():
 	updater = Updater(APIKey, use_context=True)
 	dp = updater.dispatcher
 
